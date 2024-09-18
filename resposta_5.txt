@@ -1,0 +1,32 @@
+vamos nomear os interruptores como: A, B e C.
+
+Vamos acionar os interruptores A e B.
+
+em seguida iremos a sala das lampadas.
+
+Haverão 2 lampadas acesas das quais não sabemos qual representa
+ o interruptor designado, porém sabemos que a lampada que está apagada
+ representa o interruptor C.
+
+ Com isso em mente, voltamos a sala dos interruptores.
+ Sabendo qual lampada representa o interruptor C, precisamos descobrir 
+ quais lampadas estão ligadas aos outros interruptores.
+
+ sendo assim, tudo que precisamos fazer é acionar qualquer um dos interruptores
+ A ou B e ser dirigir a sala das lampadas, o interruptor que você acionou
+ irá ascender a lampada correspondente assim o interruptor faltante
+ corresponde a outra lampada.
+ 
+  exemplo:
+
+  aciono os interruptores A e B.
+
+  Vou a sala para descobrir qual lampada está apagada,
+  determino que esta lampada esta vinculada ao interruptor C.
+
+  volto a sala de interruptores e aciono o interruptor A.
+  vou a sala das lampadas e vejo qual delas esta acesa.
+
+  sendo assim, ja sei qual lampada é acionada pelo interruptor C e pelo A,
+  sobrando apenas a lampada que não foi acesa, ligando ela ao interruptor
+  faltando neste casa o interruptor B.
